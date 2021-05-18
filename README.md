@@ -13,6 +13,9 @@ Colors represented by correspondent numbers of xmgrace schema
 C_2s 2
 C_2p 4
 -------------------
+
+Remenber to rename the file SIESTALABEL.bands.WFSX to SIESTALABEL.WFSX
+
 IMPORTANT: This program uses <siesta_version>/UTIL/COOP/fat and <siesta_version>/UTIL//Bands/eigfat2plot utilities. Put them in your PATH!
 by Filipe Matusalem - December 2019
 -----------------------------------------------------------------------------------------------
